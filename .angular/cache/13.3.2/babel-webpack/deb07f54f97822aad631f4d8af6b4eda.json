@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default class RegisterUser {\n  constructor() {\n    this.userName = \"\";\n    this.password = \"\";\n    this.password2 = \"\";\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

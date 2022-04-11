@@ -1,0 +1,10 @@
+PUT http://localhost:8080/api/user/favourites/123
+Authorization: JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MWExM2M0N2ZlOGYxNjAwMTY0YjFhNDAiLCJ1c2VyTmFtZSI6InEiLCJpYXQiOjE2MzgzMDUyMjJ9.PgIOw_kS0VYqmg0Mjidq9JOvNQXUjX1m9dQRoiVft9E
+
+# POST http://localhost:8080/api/user/login
+# Content-Type: application/json
+
+# {
+#     "userName": "q",
+#     "password": "q"
+# }
